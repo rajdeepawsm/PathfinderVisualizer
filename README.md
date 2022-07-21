@@ -4,7 +4,7 @@ This project uses Tkinter and pygame to find the shortest path between the sourc
 
 How to find the shortest path:-
 
-1. Run the pyhton file. A pygame window will appear.
+1. Run the python(main.py) file. A pygame window will appear.
 2. Thw source cell is always (0,0).
 3. You can draw obstructions/walls using left muoseclick button.
 4. Press the space bar for the algorithm to search.
