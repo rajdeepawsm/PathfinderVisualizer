@@ -1,6 +1,6 @@
 # Pathfinder Visualizer Using Dijkstra’s shortest path algorithm
 
-This project uses Tkinter and pygame to find the shortest path between the source node and the destination node.The project uses Dijktra's Algorithm which lets us prioritize which paths to explore. Instead of exploring all possible paths equally, it favors lower cost paths. It is the algorithm of choice for finding the shortest path paths with multiple destinations. A* heuristic search Algorithm can also be used as it is an modified version of Dijktra's Algorihtm.
+This project uses  Dijkstra's Algorithm to find the shortest path between the source node and the destination node.Dijkstra's Algorithm lets us prioritize which paths to explore. The project is made using Pyhton libraries such as Tkinter and Pygame. Instead of exploring all possible paths equally, it favors lower cost paths. It is the algorithm of choice for finding the shortest path paths with multiple destinations. A* heuristic search Algorithm can also be used as it is an modified version of Dijktra's Algorihtm.
 
 How to find the shortest path:-
 
